@@ -1,7 +1,7 @@
 
 You can execute this script in two different ways:
 
-### Automatic execution using the given command:
+### Execute using a single line command
 
 Copy and paste the follwing command in your terminal:
 ```markdown

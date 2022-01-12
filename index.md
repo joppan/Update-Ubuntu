@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+## Update Ubuntu
 
-You can use the [editor on GitHub](https://github.com/joppan/Update-Ubuntu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a simple bash script to keep your Ubuntu system up to date.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can execute this script in two different ways:
+
+```markdown
+Automatic execution using the given command:
+
+Copy and paste the follwing command in your terminal:
+wget -O - https://raw.githubusercontent.com/joppan/Update-Ubuntu/main/update.dat | sudo bash
+```
+
+or
+
+```markdown
+Download and execute manually
+
+Download update.dat file to your system
+To give execution permission to this script use the following command:
+chmod +x update.dat
+Execute the script using ./update.dat
+```
+
 
 ### Markdown
 

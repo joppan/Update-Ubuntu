@@ -4,7 +4,7 @@ This is a simple bash script to keep your Ubuntu system up to date.
 
 You can execute this script in two different ways:
 
-###Automatic execution using the given command:
+### Automatic execution using the given command:
 
 Copy and paste the follwing command in your terminal:
 ```markdown
@@ -14,7 +14,7 @@ wget -O - https://raw.githubusercontent.com/joppan/Update-Ubuntu/main/update.dat
 or
 
 
-###Download and execute manually
+### Download and execute manually
 
 1. [Download](https://github.com/joppan/Update-Ubuntu/archive/refs/heads/main.zip) the project to your system.
 2. Unzip the downloaded file `Update-Ubuntu-main.zip`

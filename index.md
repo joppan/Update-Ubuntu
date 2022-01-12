@@ -1,4 +1,3 @@
-
 You can execute this script in two different ways:
 
 ### Execute using a single line command
